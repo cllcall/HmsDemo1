@@ -43,6 +43,15 @@
         "label": "$string:app_name",
         "type": "page",
         "launchType": "standard"
+      },
+      {
+        "orientation": "unspecified",
+        "name": "cn.cuill.hmsdemo.SecondAbility",
+        "icon": "$media:icon",
+        "description": "$string:secondability_description",
+        "label": "$string:app_name",
+        "type": "page",
+        "launchType": "standard"
       }
     ]
   }

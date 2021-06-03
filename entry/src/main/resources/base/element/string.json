@@ -11,6 +11,14 @@
     {
       "name": "mainability_HelloWorld",
       "value": "Hello World"
+    },
+    {
+      "name": "secondability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    },
+    {
+      "name": "secondability_HelloWorld",
+      "value": "Hello World"
     }
   ]
 }
